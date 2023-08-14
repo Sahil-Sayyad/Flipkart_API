@@ -58,9 +58,8 @@
 ![token](https://github.com/Sahil-Sayyad/Flipkart_API/assets/96423459/720c8d25-fdcd-47b1-9605-1996addc80a0)
 
 -  <b> <i>Passing URL For Scraping Data Demo  </i></b> <br><br>
-![Screenshot (100)](https://github.com/Sahil-Sayyad/Flipkart_API/assets/96423459/a803412e-29b4-4c92-9e2b-2b55e91779c6)
 
-
+![Screenshot (98)](https://github.com/Sahil-Sayyad/Flipkart_API/assets/96423459/d1c14a5b-e2d2-4c39-96c0-b948c79ea3b0)
 
 ## Author
 
